@@ -1,3 +1,6 @@
+https://lightning.ai/docs/overview/getting-started
+
+
 <div align="center">
 
 <img alt="Lightning" src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/ptl_banner.png" width="800px" style="max-width: 100%;">
